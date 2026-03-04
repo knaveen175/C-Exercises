@@ -1,5 +1,6 @@
 /*
 Assignment : 02
+Topic : printf and scanf
 05 ||       Write a program to ask user about the cost price and selling price of banana per dozen. Calculate the profit or loss earned upon selling 25 Banana.
 
 */

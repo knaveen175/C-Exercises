@@ -1,5 +1,6 @@
 /*
 Assignment : 02
+Topic : printf and scanf
 03 ||       Write a program to calculate simple intrest.
 
 */

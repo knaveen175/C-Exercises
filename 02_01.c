@@ -1,5 +1,6 @@
 /*
 Assignment : 02
+Topic : printf and scanf
 01 ||       Write a program to calculate average of three integers.Numbers are given by the user.
 
 */
