@@ -67,7 +67,7 @@ The goal of this repository is to:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/C-Exercises.git
+   git clone https://github.com/knaveen175/C-Exercises.git
    ```
 
 2. Compile any C file:
